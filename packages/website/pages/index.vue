@@ -1,7 +1,8 @@
 <template>
   <div class="container">
     <div>
-      <logo />
+      <Logo />
+      <Header />
       <h1 class="title">
         website
       </h1>
@@ -30,10 +31,12 @@
 
 <script>
 import Logo from '~/components/Logo.vue'
+import Header from 'a2b-header'
 
 export default {
   components: {
-    Logo
+    Logo,
+    Header
   }
 }
 </script>
