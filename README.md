@@ -1,0 +1,1 @@
+# shared-componnent-in-nuxt
