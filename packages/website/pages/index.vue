@@ -2,10 +2,7 @@
   <div class="container">
     <div>
       <Logo />
-      <Header />
-      <h1 class="title">
-        website
-      </h1>
+      <Header></Header>
       <h2 class="subtitle">
         My super Nuxt.js project
       </h2>

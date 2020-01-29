@@ -1,3 +1,3 @@
-import App from './App.vue'
+import Header from './Header.vue'
 
-export default App
+export default Header
