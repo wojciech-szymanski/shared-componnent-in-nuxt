@@ -6,7 +6,11 @@
 
 <script>
 export default {
-  name: 'Header'
+  name: 'Header',
+  mounted () {
+    document.getElementById("app").innerText = "Wojtek"
+    window.alert("Wozza")
+  }
 }
 </script>
 

@@ -47,6 +47,7 @@ export default {
     ** You can extend webpack config here
     */
     extend (config, ctx) {
+      config.resolve.symlinks = false
     }
   }
 }

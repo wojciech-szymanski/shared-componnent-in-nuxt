@@ -2,7 +2,7 @@
   "name": "a2b-header",
   "version": "0.1.0",
   "private": true,
-  "main": "./dist/a2b-header.umd.js",
+  "main": "./dist/a2b-header.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --target lib --name a2b-header src/main.js",
